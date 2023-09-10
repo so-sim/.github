@@ -87,3 +87,12 @@
     </td>
   </tr>
 </table>
+
+## 🔗 Link
+<b>Homepage - </b> [소심한총무](https://sosim-manager.com)
+<br>
+<b>Detail Intro - </b> [Notion](https://steadfast-car-5c9.notion.site/6e5b2e9a2abb4cb3bfb32fd34f326b61)
+<br>
+<b>FE Repository - </b> [React, TypeScript](https://github.com/so-sim/front)
+<br>
+<b>BE Repository - </b> [Spring, Java](https://github.com/so-sim/server)
