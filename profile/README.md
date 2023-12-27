@@ -1,3 +1,148 @@
+# 📌 간편한 벌금 관리의 시작, 소심한 총무
+![KakaoTalk_Photo_2023-12-20-21-24-51](https://github.com/so-sim/front/assets/95389265/ef01c999-2b41-4b9b-922d-220ce655db6c)
+
+
+동아리, 스터디 등 여러 모임을 운영할 때 빠질 수 없는 벌금!
+
+그런데, 오히려 벌금 때문에 골머리를 앓고 계시지는 않나요?
+
+벌금 관리 시 생기는 모든 불편함,
+
+이제 소심한 총무에서 해결해보세요.
+
+
+> 
+> [👉 서비스 사용하러 가기](https://sosim-manager.com)
+
+# 주요 기능
+- 벌금 템플릿
+  - 장부형 벌금 관리 템플릿
+  - 벌금 내역 필터링
+  - 벌금 관리
+  - 벌금 상세 관리
+  - 납부 요청 기능
+- 모임 관리
+- 멤버
+  - 멤버 관리
+  - 총무 넘기기
+  - 멤버 초대
+  - 멤버 검색
+- 벌금 알림
+  - 알림 설정 (납부일, 반복 주기 설정)
+  - 알림 기능
+- 카카오 로그인
+  - access token, refresh token
+- 모바일 반응형 및 적응형
+
+
+## 메인 페이지
+<div align="center" >
+  <img width="45%" alt="image" src="https://github.com/so-sim/.github/assets/95389265/c4c39367-6fb5-48c3-9ab7-08c3f10f9baf">
+  <img width="45%" alt="image" src="https://github.com/so-sim/.github/assets/95389265/e6cc83bb-ff76-4487-a217-2220ef550c4d">
+</div>
+
+- 모임 만들기
+  - 모임 만들기 모달을 통한 모임 생성 기능
+- 모임 리스트
+  - 무한스크롤을 통해 참여한 모임 리스트 불러오기 기능
+
+
+
+## 모임 상세 페이지(캘린더)
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 12 36" src="https://github.com/so-sim/.github/assets/95389265/1ab0053d-f2bf-435d-875a-970280a136c8">
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 35" src="https://github.com/so-sim/.github/assets/95389265/e64b544f-78a7-4c93-a807-1f0bca5123d6">
+
+
+## 모임 상세 페이지(벌금 장부)
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 43" src="https://github.com/so-sim/.github/assets/95389265/d5e24d9b-643a-47e3-af80-8fa833da38d2">
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 52" src="https://github.com/so-sim/.github/assets/95389265/b4cb6949-8973-47a1-b753-cf40e440b8b6">
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 57" src="https://github.com/so-sim/.github/assets/95389265/1ef1d190-4735-495f-88e4-46c30e81925f">
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 14 05" src="https://github.com/so-sim/.github/assets/95389265/3b268638-5f2d-480c-8559-9fac4851f138">
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 14 21" src="https://github.com/so-sim/.github/assets/95389265/130311c6-06ab-4123-8a9b-bd4a6d208fb4">
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 15 10" src="https://github.com/so-sim/.github/assets/95389265/123eff03-35df-4d8d-aa2f-de7e0910af4a">
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 16 01" src="https://github.com/so-sim/.github/assets/95389265/cb543075-384d-4737-8694-a3201dc5943e">
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 16 28" src="https://github.com/so-sim/.github/assets/95389265/5cd3570e-0f04-43f8-95c0-7a6fa66d1151">
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 17 42" src="https://github.com/so-sim/.github/assets/95389265/133854e3-adc0-4474-bf8d-18867bec1588">
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 18 52" src="https://github.com/so-sim/.github/assets/95389265/58f48f82-f813-4efb-b974-e0db63c63e88">
+
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 18 52" src="https://github.com/so-sim/.github/assets/95389265/76644d8e-d920-4e52-86d1-17869ad2bccb">
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 19 28" src="https://github.com/so-sim/.github/assets/95389265/c03e03a1-98a0-4ba4-8b1f-1a6d6fdc6a4c">
+
+### 멤버일 경우
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 59" src="https://github.com/so-sim/.github/assets/95389265/8a3fad18-6d35-4ef2-8da4-2d46f5d20151">
+
+
+## 멤버 관리 페이지
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 10" src="https://github.com/so-sim/.github/assets/95389265/7289dc66-6ab2-402a-8e63-3f18a8a603d1">
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 14" src="https://github.com/so-sim/.github/assets/95389265/0eaed399-562f-406a-b061-43083ce0bb5a">
+
+
+<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 24" src="https://github.com/so-sim/.github/assets/95389265/0fc21dc6-b93c-4c39-9cea-748d2fcb40ab">
+
+
+## 모바일
+
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 22 22" src="https://github.com/so-sim/.github/assets/95389265/fd884857-f499-47d3-96e2-ebf225b8da23">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 22 58" src="https://github.com/so-sim/.github/assets/95389265/4dd79eb5-b63b-4786-b2ac-e52e2bf0d5db">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 23 12" src="https://github.com/so-sim/.github/assets/95389265/bb4369e6-9737-4802-9cd3-dbb65d102e06">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 23 29" src="https://github.com/so-sim/.github/assets/95389265/411e7095-66a4-4891-904c-c174011fba77">
+
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 23 35" src="https://github.com/so-sim/.github/assets/95389265/bc2b9be2-520c-49d9-8b80-e89db916e805">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 24 34" src="https://github.com/so-sim/.github/assets/95389265/b49cfd2c-046e-4d68-a7be-af5859c80497">
+
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 23 57" src="https://github.com/so-sim/.github/assets/95389265/8357c6ee-bec8-4d69-93dc-e12002d7bcc6">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 24 51" src="https://github.com/so-sim/.github/assets/95389265/8f1ef723-4e3e-47ed-8f85-b5e9caa0b8ac">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 24 55" src="https://github.com/so-sim/.github/assets/95389265/5948c428-910e-42fc-b9d0-720ba5ecbfeb">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 25 08" src="https://github.com/so-sim/.github/assets/95389265/e580ac22-3366-4d5d-b4da-1b91cd42e52f">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 25 16" src="https://github.com/so-sim/.github/assets/95389265/1c4e9479-90b4-40bc-8498-6482328de2b9">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 25 48" src="https://github.com/so-sim/.github/assets/95389265/bf468b40-fd75-423e-ab89-c18114239fd4">
+
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 25 54" src="https://github.com/so-sim/.github/assets/95389265/1d740d56-dd7f-463f-9c62-f29684366f49">
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 26 07" src="https://github.com/so-sim/.github/assets/95389265/1cb7506d-8824-4cae-934e-d3991efe1c65">
+
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 30 17" src="https://github.com/so-sim/.github/assets/95389265/a9175850-50b1-4eb9-8b97-f264e814d2dd">
+
+
+<img width="373" alt="스크린샷 2023-12-27 오후 3 30 30" src="https://github.com/so-sim/.github/assets/95389265/932a485e-2c03-49e1-97c1-84abbe450a7f">
+
+
 ## 🧑‍🤝‍🧑 Team - Sosim
 <table>
   <tr>
