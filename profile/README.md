@@ -42,82 +42,155 @@
 </div>
 
 - 모임 만들기
-  - 모임 만들기 모달을 통한 모임 생성 기능
+  - 모임 만들기 모달을 통해 모임 생성
 - 모임 리스트
-  - 무한스크롤을 통해 참여한 모임 리스트 불러오기 기능
+  - 무한스크롤로 참여 모임 리스트 불러오기
 
 
 
 ## 모임 상세 페이지(캘린더)
+<div align="center" >
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 12 36" src="https://github.com/so-sim/.github/assets/95389265/1ab0053d-f2bf-435d-875a-970280a136c8">
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 13 35" src="https://github.com/so-sim/.github/assets/95389265/e64b544f-78a7-4c93-a807-1f0bca5123d6">
+</div>
 
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 12 36" src="https://github.com/so-sim/.github/assets/95389265/1ab0053d-f2bf-435d-875a-970280a136c8">
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 35" src="https://github.com/so-sim/.github/assets/95389265/e64b544f-78a7-4c93-a807-1f0bca5123d6">
+- 모임의 벌금 장부를 날짜별 태그 형태로 확인
+- 날짜 클릭 시, 해당 날짜의 벌금 장부로 이동
+- **(총무)** 내역 추가 기능
 
+<br/>
 
 ## 모임 상세 페이지(벌금 장부)
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 43" src="https://github.com/so-sim/.github/assets/95389265/d5e24d9b-643a-47e3-af80-8fa833da38d2">
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 52" src="https://github.com/so-sim/.github/assets/95389265/b4cb6949-8973-47a1-b753-cf40e440b8b6">
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 13 57" src="https://github.com/so-sim/.github/assets/95389265/1ef1d190-4735-495f-88e4-46c30e81925f">
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 14 05" src="https://github.com/so-sim/.github/assets/95389265/3b268638-5f2d-480c-8559-9fac4851f138">
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 14 21" src="https://github.com/so-sim/.github/assets/95389265/130311c6-06ab-4123-8a9b-bd4a6d208fb4">
 
 
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 15 10" src="https://github.com/so-sim/.github/assets/95389265/123eff03-35df-4d8d-aa2f-de7e0910af4a">
+### 필터링
 
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 16 01" src="https://github.com/so-sim/.github/assets/95389265/cb543075-384d-4737-8694-a3201dc5943e">
+<div align="center" >
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 13 43" src="https://github.com/so-sim/.github/assets/95389265/d5e24d9b-643a-47e3-af80-8fa833da38d2">
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 13 52" src="https://github.com/so-sim/.github/assets/95389265/b4cb6949-8973-47a1-b753-cf40e440b8b6">
+</div>
 
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 16 28" src="https://github.com/so-sim/.github/assets/95389265/5cd3570e-0f04-43f8-95c0-7a6fa66d1151">
-
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 17 42" src="https://github.com/so-sim/.github/assets/95389265/133854e3-adc0-4474-bf8d-18867bec1588">
-
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 18 52" src="https://github.com/so-sim/.github/assets/95389265/58f48f82-f813-4efb-b974-e0db63c63e88">
+- 월간, 주간, 일간, 상세 기간 버튼으로 원하는 날짜의 내역을 필터링
+  - 날짜 우측의 화살표를 통하여 필터링 단위별 날짜 이동 (ex. 월간 필터링 중, 화살표 클릭 시 한 달씩 이동)
+- 캘린더에도 필터링된 날짜 표시
 
 
+<br/>
 
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 18 52" src="https://github.com/so-sim/.github/assets/95389265/76644d8e-d920-4e52-86d1-17869ad2bccb">
+<div align="center" >
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 13 57" src="https://github.com/so-sim/.github/assets/95389265/1ef1d190-4735-495f-88e4-46c30e81925f">
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 14 05" src="https://github.com/so-sim/.github/assets/95389265/3b268638-5f2d-480c-8559-9fac4851f138">
+</div>
 
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 19 28" src="https://github.com/so-sim/.github/assets/95389265/c03e03a1-98a0-4ba4-8b1f-1a6d6fdc6a4c">
+- 필터 버튼을 이용하여 납부여부 상태별 필터링
+- 팀원 검색을 통하여 특정 팀원의 벌금 장부 필터링
 
-### 멤버일 경우
+<br/>
+
+### 납부여부 상태 변경
+
+<div align="center" >
+  <img width="45%" alt="스크린샷 2023-12-27 오후 3 15 10" src="https://github.com/so-sim/.github/assets/95389265/123eff03-35df-4d8d-aa2f-de7e0910af4a">
+  <img width="45%" alt="스크린샷 2023-12-27 오후 3 20 59" src="https://github.com/so-sim/.github/assets/95389265/8a3fad18-6d35-4ef2-8da4-2d46f5d20151">
+</div>
+
+- (총무) 리스트에서 모든 팀원 및 자신의 납부여부 상태 변경 가능
+
+- (팀원) 리스트에서 자신의 내역만 납부여부 상태 변경 가능
+  - **납부 전**일 경우에만 **승인 대기**상태로 변경 가능
+    
+<br/>
+
+### 체크박스
+
+<div align="center" >
+  <img width="100%" alt="스크린샷 2023-12-27 오후 3 14 21" src="https://github.com/so-sim/.github/assets/95389265/130311c6-06ab-4123-8a9b-bd4a6d208fb4">
+</div>
+
+- 체크박스 툴킷을 통해 체크박스 컨트롤 및 변경/요청 가능
+  - (총무) 납부여부 변경 / 납부 요청 가능
+  - (팀원) '납부 전'상태의 자신의 내역 납부여부 변경 가능
+- 체크한 벌금 내역의 합계
+
+<div align="center" >
+  <img width="45%" alt="스크린샷 2023-12-27 오후 3 16 28" src="https://github.com/so-sim/.github/assets/95389265/5cd3570e-0f04-43f8-95c0-7a6fa66d1151">
+  <img width="45%" alt="스크린샷 2023-12-27 오후 3 17 03" src="https://github.com/so-sim/.github/assets/95389265/3ec0302d-486e-44bc-ba98-cf60c32b1f30">
+</div>
+
+- 여러 건에 대한 납부여부 변경 및 납부 요청 시 요청 전 상세내역 확인
+- 변경하기 / 요청하기 버튼 클릭 시, 선택한 건에 대하여 일괄 변경/요청
+
+### 상세 납부내역
+
+<div align="center" >
+  <img width="45%" alt="스크린샷 2023-12-27 오후 3 17 42" src="https://github.com/so-sim/.github/assets/95389265/133854e3-adc0-4474-bf8d-18867bec1588">
+  <img width="45%" alt="스크린샷 2023-12-27 오후 3 18 52" src="https://github.com/so-sim/.github/assets/95389265/58f48f82-f813-4efb-b974-e0db63c63e88">
+</div>
+
+- 벌금장부 리스트 클릭 시, 납부내역의 상세 정보 확인
+  - (총무) 납부내역 수정, 삭제
+  - (팀원) '납부 전'인 자신의 납부 내역 상태 변경
 
 
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 59" src="https://github.com/so-sim/.github/assets/95389265/8a3fad18-6d35-4ef2-8da4-2d46f5d20151">
+
+
+<img width="1476" alt="툴팁" src="https://github.com/so-sim/.github/assets/95389265/c03e03a1-98a0-4ba4-8b1f-1a6d6fdc6a4c">
+
+
+### 모임 설정 모달
+
+
+
+
+<div align="center" >
+  <img width="20%" alt="스크린샷 2023-12-27 오후 5 08 07" src="https://github.com/so-sim/.github/assets/95389265/0c7f7ac8-01d6-4a07-8e17-b1981843142f">
+  <img width="20%" alt="스크린샷 2023-12-27 오후 5 06 26" src="https://github.com/so-sim/.github/assets/95389265/d13128e3-73be-4902-8cdd-36d813971fdf">
+  <img width="20%" alt="스크린샷 2023-12-27 오후 5 06 31" src="https://github.com/so-sim/.github/assets/95389265/adc06b9b-cb4d-411b-986b-e92d7dc4c4c9">
+  <img width="20%" alt="스크린샷 2023-12-27 오후 5 06 35" src="https://github.com/so-sim/.github/assets/95389265/fadcff71-eb50-4b35-bfdc-be0c1745fcce">
+</div>
+
+
+
+
+### 알림 기능 
 
 
 ## 멤버 관리 페이지
 
+<div align="center" >
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 20 10" src="https://github.com/so-sim/.github/assets/95389265/7289dc66-6ab2-402a-8e63-3f18a8a603d1">
+<img width="45%" alt="스크린샷 2023-12-27 오후 3 20 14" src="https://github.com/so-sim/.github/assets/95389265/0eaed399-562f-406a-b061-43083ce0bb5a">
+</div>
 
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 10" src="https://github.com/so-sim/.github/assets/95389265/7289dc66-6ab2-402a-8e63-3f18a8a603d1">
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 14" src="https://github.com/so-sim/.github/assets/95389265/0eaed399-562f-406a-b061-43083ce0bb5a">
-
-
-<img width="1476" alt="스크린샷 2023-12-27 오후 3 20 24" src="https://github.com/so-sim/.github/assets/95389265/0fc21dc6-b93c-4c39-9cea-748d2fcb40ab">
-
+- (총무) 총무 넘기기 버튼을 클릭하여 다른 팀원에게 총무 넘기기
 
 ## 모바일
 
+<div align="center" >
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 22 22" src="https://github.com/so-sim/.github/assets/95389265/fd884857-f499-47d3-96e2-ebf225b8da23">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 25 08" src="https://github.com/so-sim/.github/assets/95389265/e580ac22-3366-4d5d-b4da-1b91cd42e52f">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 22 58" src="https://github.com/so-sim/.github/assets/95389265/4dd79eb5-b63b-4786-b2ac-e52e2bf0d5db">
+</div>
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 22 22" src="https://github.com/so-sim/.github/assets/95389265/fd884857-f499-47d3-96e2-ebf225b8da23">
+- 메인페이지, 모임 생성 모달 -> 모임 생성 페이지로 변경
+<div align="center" >
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 23 12" src="https://github.com/so-sim/.github/assets/95389265/bb4369e6-9737-4802-9cd3-dbb65d102e06">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 23 29" src="https://github.com/so-sim/.github/assets/95389265/411e7095-66a4-4891-904c-c174011fba77">
+</div>
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 22 58" src="https://github.com/so-sim/.github/assets/95389265/4dd79eb5-b63b-4786-b2ac-e52e2bf0d5db">
-
-<img width="373" alt="스크린샷 2023-12-27 오후 3 23 12" src="https://github.com/so-sim/.github/assets/95389265/bb4369e6-9737-4802-9cd3-dbb65d102e06">
-
-<img width="373" alt="스크린샷 2023-12-27 오후 3 23 29" src="https://github.com/so-sim/.github/assets/95389265/411e7095-66a4-4891-904c-c174011fba77">
+- 모임 생성 직후
+- 가입된 모임 리스트 확인 가능
 
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 23 35" src="https://github.com/so-sim/.github/assets/95389265/bc2b9be2-520c-49d9-8b80-e89db916e805">
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 24 34" src="https://github.com/so-sim/.github/assets/95389265/b49cfd2c-046e-4d68-a7be-af5859c80497">
 
+
+<div align="center" >
+  <img width="373" alt="스크린샷 2023-12-27 오후 3 23 35" src="https://github.com/so-sim/.github/assets/95389265/bc2b9be2-520c-49d9-8b80-e89db916e805">
+  <img width="373" alt="스크린샷 2023-12-27 오후 3 24 34" src="https://github.com/so-sim/.github/assets/95389265/b49cfd2c-046e-4d68-a7be-af5859c80497">
+</div>
+- 캘린더와 벌금 장부 리스트 (바텀시트 형태로 구현)
+- 
 
 <img width="373" alt="스크린샷 2023-12-27 오후 3 23 57" src="https://github.com/so-sim/.github/assets/95389265/8357c6ee-bec8-4d69-93dc-e12002d7bcc6">
 
@@ -125,7 +198,6 @@
 
 <img width="373" alt="스크린샷 2023-12-27 오후 3 24 55" src="https://github.com/so-sim/.github/assets/95389265/5948c428-910e-42fc-b9d0-720ba5ecbfeb">
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 25 08" src="https://github.com/so-sim/.github/assets/95389265/e580ac22-3366-4d5d-b4da-1b91cd42e52f">
 
 <img width="373" alt="스크린샷 2023-12-27 오후 3 25 16" src="https://github.com/so-sim/.github/assets/95389265/1c4e9479-90b4-40bc-8498-6482328de2b9">
 
