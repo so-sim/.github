@@ -166,54 +166,81 @@
 
 ## 모바일
 
+- 웹에서 사용하던 모임 생성, 내역 추가하기 모달 -> 모바일 페이지로 변경
+- 드롭다운 -> 바텀시트로 변경
+- 벌금 장부 페이지네이션 -> 무한 스크롤로 변경
+
+### 메인 페이지
 <div align="center" >
   <img width="18%" alt="스크린샷 2023-12-27 오후 3 22 22" src="https://github.com/so-sim/.github/assets/95389265/fd884857-f499-47d3-96e2-ebf225b8da23">
   <img width="18%" alt="스크린샷 2023-12-27 오후 3 25 08" src="https://github.com/so-sim/.github/assets/95389265/e580ac22-3366-4d5d-b4da-1b91cd42e52f">
   <img width="18%" alt="스크린샷 2023-12-27 오후 3 22 58" src="https://github.com/so-sim/.github/assets/95389265/4dd79eb5-b63b-4786-b2ac-e52e2bf0d5db">
 </div>
 
+
 - 메인페이지, 모임 생성 모달 -> 모임 생성 페이지로 변경
+
+
+### 모임 상세 페이지
 <div align="center" >
   <img width="18%" alt="스크린샷 2023-12-27 오후 3 23 12" src="https://github.com/so-sim/.github/assets/95389265/bb4369e6-9737-4802-9cd3-dbb65d102e06">
   <img width="18%" alt="스크린샷 2023-12-27 오후 3 23 29" src="https://github.com/so-sim/.github/assets/95389265/411e7095-66a4-4891-904c-c174011fba77">
 </div>
 
-- 모임 생성 직후
+- 모임 초대하기 모달
 - 가입된 모임 리스트 확인 가능
 
 
-
-
+### 벌금장부 페이지
 
 <div align="center" >
-  <img width="373" alt="스크린샷 2023-12-27 오후 3 23 35" src="https://github.com/so-sim/.github/assets/95389265/bc2b9be2-520c-49d9-8b80-e89db916e805">
-  <img width="373" alt="스크린샷 2023-12-27 오후 3 24 34" src="https://github.com/so-sim/.github/assets/95389265/b49cfd2c-046e-4d68-a7be-af5859c80497">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 23 35" src="https://github.com/so-sim/.github/assets/95389265/bc2b9be2-520c-49d9-8b80-e89db916e805">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 24 34" src="https://github.com/so-sim/.github/assets/95389265/b49cfd2c-046e-4d68-a7be-af5859c80497">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 23 57" src="https://github.com/so-sim/.github/assets/95389265/8357c6ee-bec8-4d69-93dc-e12002d7bcc6">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 24 43" src="https://github.com/so-sim/.github/assets/95389265/6deb7703-129b-4f65-8b97-f3ddfbf457d2">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 24 51" src="https://github.com/so-sim/.github/assets/95389265/8f1ef723-4e3e-47ed-8f85-b5e9caa0b8ac">
 </div>
 - 캘린더와 벌금 장부 리스트 (바텀시트 형태로 구현)
-- 
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 23 57" src="https://github.com/so-sim/.github/assets/95389265/8357c6ee-bec8-4d69-93dc-e12002d7bcc6">
+<div align="center">
+  <img width="30%" src="https://github.com/so-sim/.github/assets/95389265/0a0d4ba0-1a6b-45c3-8cbd-e711975005d7">
+</div>
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 24 51" src="https://github.com/so-sim/.github/assets/95389265/8f1ef723-4e3e-47ed-8f85-b5e9caa0b8ac">
-
-<img width="373" alt="스크린샷 2023-12-27 오후 3 24 55" src="https://github.com/so-sim/.github/assets/95389265/5948c428-910e-42fc-b9d0-720ba5ecbfeb">
-
-
-<img width="373" alt="스크린샷 2023-12-27 오후 3 25 16" src="https://github.com/so-sim/.github/assets/95389265/1c4e9479-90b4-40bc-8498-6482328de2b9">
-
-<img width="373" alt="스크린샷 2023-12-27 오후 3 25 48" src="https://github.com/so-sim/.github/assets/95389265/bf468b40-fd75-423e-ab89-c18114239fd4">
+- 벌금장부 스크롤 시, 상단에 날짜 고정
 
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 25 54" src="https://github.com/so-sim/.github/assets/95389265/1d740d56-dd7f-463f-9c62-f29684366f49">
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 26 07" src="https://github.com/so-sim/.github/assets/95389265/1cb7506d-8824-4cae-934e-d3991efe1c65">
+### 알림 페이지
+
+<div align="center" >
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 25 48" src="https://github.com/so-sim/.github/assets/95389265/bf468b40-fd75-423e-ab89-c18114239fd4">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 25 54" src="https://github.com/so-sim/.github/assets/95389265/1d740d56-dd7f-463f-9c62-f29684366f49">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 26 07" src="https://github.com/so-sim/.github/assets/95389265/1cb7506d-8824-4cae-934e-d3991efe1c65">
+</div>
+
+- 알림 아이콘 터치 시, 알림페이지로 이동
+- 해당 알림에 대한 페이지로 이동
+  - 총무 변경 알림: 멤버관리 페이지
+  - 벌금 주기 알림: 알림이 보내진 시점에서 납부 전, 승인 대기 다중 변경 페이지
+  - 납부 요청 알림: 납부요청 보내진 장부 변경 페이지
 
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 30 17" src="https://github.com/so-sim/.github/assets/95389265/a9175850-50b1-4eb9-8b97-f264e814d2dd">
 
+### 초대장 페이지
 
-<img width="373" alt="스크린샷 2023-12-27 오후 3 30 30" src="https://github.com/so-sim/.github/assets/95389265/932a485e-2c03-49e1-97c1-84abbe450a7f">
+초대하기 링크를 통해 간편하게 모임에 가입할 수 있습니다.
 
+<div align="center" >
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 30 17" src="https://github.com/so-sim/.github/assets/95389265/a9175850-50b1-4eb9-8b97-f264e814d2dd">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 3 30 30" src="https://github.com/so-sim/.github/assets/95389265/932a485e-2c03-49e1-97c1-84abbe450a7f">
+  <img width="18%" alt="스크린샷 2023-12-27 오후 5 40 24" src="https://github.com/so-sim/.github/assets/95389265/3d97c6bb-d4aa-4a96-9d83-1b90326897f2">
+</div>
+
+- 초대하기 링크로 진입 시, 해당 모임의 초대장 페이지로 이동
+- 모임에 가입되어 있지 않은 경우:
+  - 닉네임 입력 후 모임 가입 완료 시, 모임 상세 페이지로 이동
+- 로그인 및 회원가입이 되어 있지 않은 경우:
+  - 로그인 및 회원가입 초대장 페이지로 리다이렉트
 
 ## 🧑‍🤝‍🧑 Team - Sosim
 <table>
